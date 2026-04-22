@@ -37,6 +37,8 @@ This project detects human emotions in real-time using a webcam and CNN model.
 https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
 ---
+## 📸 Output
+![Output](output.png)
 
 ## 👩‍💻 Author
 
